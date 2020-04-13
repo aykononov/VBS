@@ -1,3 +1,4 @@
+```vbs
 '* ***********************************************
 '* Имя:: ARM_SpecInfo.vbs                        *
 '* Язык: VBScript                                *
@@ -412,3 +413,4 @@ fileOutput.WriteLn "    </body>"
 fileOutput.WriteLn "<html>"
 fileOutput.close
 WScript.Quit
+```
