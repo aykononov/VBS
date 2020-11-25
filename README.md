@@ -1,5 +1,7 @@
-# VBS
+# windows-script-vbs
+
 VBScript: Выводит информацию о спецификации ПК в HTML через Internet Explorer.
+
 ```vbs
 '* ***********************************************
 '* Имя:: ARM_SpecInfo.vbs                        *
